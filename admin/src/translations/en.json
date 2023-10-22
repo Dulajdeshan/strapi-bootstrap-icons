@@ -1,0 +1,16 @@
+{
+  "plugin.name": "Strapi Bootstrap Icons",
+  "form.label": "Bootstrap Icon",
+  "form.description": "Use Official Bootstrap Icons",
+  "form.attribute.item.required": "Required Field",
+  "form.attribute.item.required.description": "You won't be able to create an entry if this field is empty",
+  "form.field.responseFormat": "Response format",
+  "form.field.responseFormat.description": "Field value format in the API response",
+  "form.field.responseFormat.class": "CSS Class",
+  "form.field.responseFormat.svg": "SVG",
+  "form.field.responseFormat.base64": "Base64",
+  "modal.title": "Select a icon",
+  "modal.cancel": "Cancel",
+  "search.placeholder": "Search icon",
+  "total.icons": "Total {total} icons"
+}
