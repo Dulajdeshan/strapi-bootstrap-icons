@@ -11,7 +11,8 @@
     "svg"
   ],
   "strapi": {
-    "name": "Strapi Bootstrap Icons",
+    "name": "strapi-bootstrap-icons",
+    "displayName": "Strapi Bootstrap Icons",
     "description": "Bootstrap Icons for Strapi",
     "kind": "plugin"
   },
