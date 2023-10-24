@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-bootstrap-icons">
     <img src="https://img.shields.io/npm/v/strapi-bootstrap-icons" alt="Version">
-    <img src="https://img.shields.io/npm/l/strapi-bootstrap-icons
-" alt="License">
+    <img src="https://img.shields.io/npm/l/strapi-bootstrap-icons" alt="License">
   </a>
 </p>
 
@@ -28,6 +27,31 @@ npm install strapi-bootstrap-icons
 ```
 yarn add strapi-bootstrap-icons
 ```
+
+## Setup
+
+After installation you will find the `Bootstrap Icon` at the custom fields section of the content-type builder.
+
+![strapi bootstrap icons](./screenshot/screenshot-1.png)
+
+Now you can define the field attributes. `Bootstrap Icon` field allows you to select a response type for the field value in 3 formats.
+
+- Base64
+- SVG
+- CSS Class
+
+![strapi bootstrap icons](./screenshot/screenshot-2.png)
+
+Now You can create new records via the Admin panel with selecting your preferred bootstrap icons.
+
+![strapi bootstrap icons](./screenshot/screenshot-3.png)
+
+
+![strapi bootstrap icons](./screenshot/screenshot-4.png)
+
+## Demo
+
+![strapi bootstrap icons demo](./screenshot/demo.gif)
 
 ## License
 This plugin is licensed under the MIT License. See the LICENSE file for more information.
