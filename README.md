@@ -49,6 +49,9 @@ Now You can create new records via the Admin panel with selecting your preferred
 
 ![strapi bootstrap icons](./screenshot/screenshot-4.png)
 
+## Demo
+
+![strapi bootstrap icons demo](./screenshot/demo.gif)
 
 ## License
 This plugin is licensed under the MIT License. See the LICENSE file for more information.
