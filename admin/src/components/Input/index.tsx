@@ -125,7 +125,7 @@ const Input = ({
             disabled={disabled}
             startAction={
               <FieldActionWrapper onClick={toggleModal}>
-                <i className={`bi bi-${value}`}></i>
+                <Typography className={`bi bi-${value}`}></Typography>
               </FieldActionWrapper>
             }
             endAction={
@@ -176,10 +176,10 @@ const Input = ({
                     style={{ width: "inherit", height: "inherit" }}
                     onClick={() => handleClickIcon(item)}
                   >
-                    <i
+                    <Typography
                       className={`icon bi-${item}`}
                       style={{ fontSize: 24 }}
-                    ></i>
+                    ></Typography>
                   </IconButton>
                 </Tooltip>
               ))}

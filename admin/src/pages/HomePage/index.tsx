@@ -14,6 +14,7 @@ import {
   Tooltip,
   SearchForm,
   Searchbar,
+  Typography
 } from "@strapi/design-system";
 import { useIntl } from "react-intl";
 import pluginId from "../../pluginId";
@@ -85,7 +86,7 @@ const HomePage = () => {
                 aria-label="Edit"
                 style={{ width: "inherit", height: "inherit" }}
               >
-                <i className={`icon bi-${item}`} style={{ fontSize: 24 }}></i>
+                <Typography className={`icon bi-${item}`} style={{ fontSize: 24 }}></Typography>
               </IconButton>
             </Tooltip>
           ))}
