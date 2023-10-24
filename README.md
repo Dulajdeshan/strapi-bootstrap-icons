@@ -34,7 +34,7 @@ After installation you will find the `Bootstrap Icon` at the custom fields secti
 
 ![strapi bootstrap icons](./screenshot/screenshot-1.png)
 
-Now you can define the field attributes. Advanced UUID field allows you to select a response type for the field value in 3 formats.
+Now you can define the field attributes. `Bootstrap Icon` field allows you to select a response type for the field value in 3 formats.
 
 - Base64
 - SVG
