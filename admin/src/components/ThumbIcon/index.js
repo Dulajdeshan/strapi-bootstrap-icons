@@ -5,8 +5,9 @@
  */
 
 import React from "react";
-import icon from "./icon.svg";
+import { Typography } from '@strapi/design-system';
+import 'bootstrap-icons/font/bootstrap-icons.css'
 
-const ThumbIcon = () => <img alt={"bootstrap icons"} src={icon} />;
+const ThumbIcon = () => <Typography className="bi bi-bootstrap"></Typography>
 
 export default ThumbIcon;
