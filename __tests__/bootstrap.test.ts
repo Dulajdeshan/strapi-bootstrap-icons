@@ -1,14 +1,14 @@
 import bootstrap from "../server/bootstrap";
 
-const strapi = {
+const strapi: any = {
   db: {
     lifecycles: {
       subscribe: jest.fn(),
     },
   },
-  plugin: (plugin) => ({
-    service: (serviceName) => ({}),
-  })
+  plugin: (plugin: any) => ({
+    service: (serviceName: any) => ({}),
+  }),
 };
 
 describe("bootstrap", () => {
