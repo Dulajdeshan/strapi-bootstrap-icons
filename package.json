@@ -47,29 +47,24 @@
     "react-router-dom": "^5.3.4",
     "styled-components": "^5.3.3 || ^6.1.8"
   },
-  "homepage": "https://github.com/Dulajdeshan/strapi-bootstrap-icons",
-  "readme": "https://github.com/Dulajdeshan/strapi-bootstrap-icons#readme",
+  "homepage": "https://github.com/dynolabs/strapi-bootstrap-icons",
+  "readme": "https://github.com/dynolabs/strapi-bootstrap-icons#readme",
   "author": {
     "name": "Dulaj Ariyaratne",
     "email": "dulajdeshans@gmail.com",
     "url": "https://github.com/dulajdeshan"
   },
   "repository": {
-    "url": "https://github.com/Dulajdeshan/strapi-bootstrap-icons",
+    "url": "https://github.com/dynolabs/strapi-bootstrap-icons",
     "type": "git",
     "directory": "."
   },
   "bugs": {
-    "url": "https://github.com/Dulajdeshan/strapi-bootstrap-icons/issues",
+    "url": "https://github.com/dynolabs/strapi-bootstrap-icons/issues",
     "email": "dulajdeshans@gmail.com"
   },
   "publishConfig": {
     "access": "public"
-  },
-  "release": {
-    "branches": [
-      "latest"
-    ]
   },
   "engines": {
     "node": ">=16.0.0 <=20.x.x",

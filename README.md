@@ -15,20 +15,21 @@
   </a>
 </p>
 
-Strapi Bootstrap Icons Plugin is a custom plugin for Strapi that allows to use [Bootstrap Icons](https://icons.getbootstrap.com/) for your content. 
+Strapi Bootstrap Icons Plugin is a custom plugin for Strapi that allows to use [Bootstrap Icons](https://icons.getbootstrap.com/) for your content.
 
-## Installation
+## ⚙️ Installation
 
 To install the Strapi Bootstrap Icons, simply run one of the following command:
 
 ```
 npm install strapi-bootstrap-icons
 ```
+
 ```
 yarn add strapi-bootstrap-icons
 ```
 
-## Setup
+## ⚡️ Usage
 
 After installation you will find the `Bootstrap Icon` at the custom fields section of the content-type builder.
 
@@ -46,12 +47,19 @@ Now You can create new records via the Admin panel with selecting your preferred
 
 ![strapi bootstrap icons](./screenshot/screenshot-3.png)
 
-
 ![strapi bootstrap icons](./screenshot/screenshot-4.png)
 
-## Demo
+## 🖥️ Demo
 
 ![strapi bootstrap icons demo](./screenshot/demo.gif)
 
-## License
-This plugin is licensed under the MIT License. See the LICENSE file for more information.
+## 👍 Contribute
+
+If you want to say **Thank You** and/or support the active development of `Strapi Boostrap Icons`:
+
+1. Add a [GitHub Star](https://github.com/dynolabs/strapi-bootstrap-icons/stargazers) to the project.
+2. Support the project by donating a [cup of coffee](https://buymeacoff.ee/dulajdeshan).
+
+## 🧾 License
+
+This plugin is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
