@@ -57,7 +57,7 @@ Now You can create new records via the Admin panel with selecting your preferred
 
 If you want to say **Thank You** and/or support the active development of `Strapi Boostrap Icons`:
 
-1. Add a [GitHub Star](https://github.com/Dulajdeshan/strapi-bootstrap-icons/stargazers) to the project.
+1. Add a [GitHub Star](https://github.com/dynolabs/strapi-bootstrap-icons/stargazers) to the project.
 2. Support the project by donating a [cup of coffee](https://buymeacoff.ee/dulajdeshan).
 
 ## 🧾 License
